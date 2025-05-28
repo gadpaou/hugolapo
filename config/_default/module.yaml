@@ -1,5 +1,6 @@
 imports:
   # posts modules
+  - path: github.com/hugolify/hugolify-theme-2
   - path: github.com/hugolify/hugolify-theme-posts-authors
   - path: github.com/hugolify/hugolify-theme-posts-expertises
   - path: github.com/hugolify/hugolify-theme-posts-tags
@@ -8,3 +9,4 @@ imports:
   # Required modules
   - path: github.com/hugolify/hugolify-theme
   - path: github.com/hugolify/hugolify-admin
+
